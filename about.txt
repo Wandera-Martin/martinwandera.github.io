@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Public Sans
-- Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww0pX189fg.ttf
-- Font License: undefined)
