@@ -59,7 +59,7 @@ Here are some of the recent data and design projects featured:
 
 If you’re working on a data-driven product, exploring AI integrations, or just want to talk tech — feel free to reach out.
 
-**Email:** [martinwandera@gmail.com](mailto:martinwandera@gmail.com)  
+**Email:** [martinwandera@gmail.com](martinwandera@gmail.com)  
 **Phone:** +256-707-846377  
 **Social:**  
 [LinkedIn](https://linkedin.com/in/martin-wandera) · [Medium](https://medium.com/@martinwandera) · [GitHub](https://github.com/Wandera-Martin)
